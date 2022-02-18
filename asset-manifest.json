@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://geetapogul.github.io/csb-4cbw09/static/css/main.bed9c162.chunk.css",
+    "main.js": "https://geetapogul.github.io/csb-4cbw09/static/js/main.907aef06.chunk.js",
+    "main.js.map": "https://geetapogul.github.io/csb-4cbw09/static/js/main.907aef06.chunk.js.map",
+    "runtime-main.js": "https://geetapogul.github.io/csb-4cbw09/static/js/runtime-main.524605b9.js",
+    "runtime-main.js.map": "https://geetapogul.github.io/csb-4cbw09/static/js/runtime-main.524605b9.js.map",
+    "static/js/2.ccd59145.chunk.js": "https://geetapogul.github.io/csb-4cbw09/static/js/2.ccd59145.chunk.js",
+    "static/js/2.ccd59145.chunk.js.map": "https://geetapogul.github.io/csb-4cbw09/static/js/2.ccd59145.chunk.js.map",
+    "index.html": "https://geetapogul.github.io/csb-4cbw09/index.html",
+    "static/css/main.bed9c162.chunk.css.map": "https://geetapogul.github.io/csb-4cbw09/static/css/main.bed9c162.chunk.css.map",
+    "static/js/2.ccd59145.chunk.js.LICENSE.txt": "https://geetapogul.github.io/csb-4cbw09/static/js/2.ccd59145.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.524605b9.js",
+    "static/js/2.ccd59145.chunk.js",
+    "static/css/main.bed9c162.chunk.css",
+    "static/js/main.907aef06.chunk.js"
+  ]
+}
